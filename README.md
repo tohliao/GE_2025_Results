@@ -1,2 +1,5 @@
 # GE_2025_Results
-Interactive electoral results map + basic metric data about voter performance
+This is my very first Python project for data analysis, and the aim for this project is to deepen
+my understanding for Python and its various uses, as well as making use of its many libraries to create data dashboards.
+
+*** When first loading this page, you might sometimes find that the Percentage bar would load at the bottom of the page, and you would have to scroll to access the bar. If so, simply reload the page.***
